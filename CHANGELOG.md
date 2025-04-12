@@ -1,3 +1,7 @@
+## 0.1.1
+
+- Upgrade to new Android Plugin API (flutter 3.29) [doc](https://docs.flutter.dev/release/breaking-changes/plugin-api-migration)
+
 ## 0.1.0
 
 - Replaced `ImageProvider` with `child` & `size` parameter [fork#3](https://github.com/LeGoffMael/image_crop/pull/3)

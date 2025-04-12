@@ -23,6 +23,8 @@ Contains all the changes needed in order to work with the `insta_assets_picker` 
 - [8fb0bc0](https://github.com/LeGoffMael/image_crop/commit/8fb0bc04696f95055be5f3dc32cbb8714b278a9c): fix issue with GIF, no PR for this yet since it is specific to GIF extended image provider
 - [c60f3a1](https://github.com/LeGoffMael/image_crop/commit/c60f3a1c6944725cb7cd07c901a44fd7f3b43653): fix compatibility with AGP 8.0
 - [#3](https://github.com/LeGoffMael/image_crop/pull/3): replace `image` with `child` & `size` parameters. Allow any widget to be shown in the crop view.
+- [2538833](https://github.com/LeGoffMael/image_crop/commit/2538833a053bf60da339d049eb8cc532bbf812f5): fix android build failure on flutter 3.24
+- [edaf5f4](https://github.com/LeGoffMael/image_crop/commit/edaf5f49f244267fb4f55d320ed5735e04ff0b0f): upgrade to new Android Plugin API (flutter 3.29)
 
 ## Note
 
